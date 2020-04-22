@@ -1,0 +1,1 @@
+UPDATE ath SET name = "Hana" WHERE name = "Hannah";
