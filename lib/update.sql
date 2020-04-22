@@ -1,1 +1,1 @@
-UPDATE ath SET name = "Hana" WHERE name = "Hannah";
+UPDATE characters SET species = "" WHERE name = "Hannah";
